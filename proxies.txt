@@ -1,1 +1,1 @@
-username:password@host:port
+username:root@61.7.146.7:80:80
